@@ -1,0 +1,8 @@
+The agenda for the session is as follows:-
+
+1) Creating a GitHub Account
+2) Optimizing the Profile (Username, Pinned Repository, Documentation of your projects with screenshots/Live link attached in Readme file)
+3) What kind of content do you need to put in your GitHub profile?
+4) Uploading the Project through Command line/Git Bash/Github to the server(Github Repository)
+5) Contributing to Open-source Projects
+6)  Tips to make the best possible impression on potential employers, clients, or other developers!
