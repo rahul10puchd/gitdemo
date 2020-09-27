@@ -7,8 +7,11 @@ https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9
 ## Sample Readme file for project documentation
 
 https://github.com/silent-lad/VueSolitaire
+
 https://github.com/silent-lad/Vue2BaremetricsCalendar
+
 https://github.com/amitmerchant1990/pomolectron
+
 https://github.com/gitpoint/git-point
 
 https://blog.bitsrc.io/how-to-write-beautiful-and-meaningful-readme-md-for-your-next-project-897045e3f991
